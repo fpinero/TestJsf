@@ -17,4 +17,5 @@
 		<property name="prefix" value="/faces/"></property>
 		<property name="suffix" value=".xhtml"></property>
 	</bean>
+	<bean id="student" class="com.fpe.TestJsf.Domain.Student"></bean>
 </beans>
